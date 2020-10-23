@@ -888,7 +888,7 @@ function start() {
     bfarm1HARVEST = "no";
     bfarm2HARVEST = "no";
 
-    mainCounter = 10;
+    mainCounter = 300;
 
     game_number++;
 
